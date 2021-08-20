@@ -16,6 +16,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 # [jimmyb.co.za](https://www.jimmyb.co.za)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X75VF5E)
 
 <!--
 **James-Burgess/James-Burgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
